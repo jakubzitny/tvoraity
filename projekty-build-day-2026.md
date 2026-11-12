@@ -1,16 +1,16 @@
 # HackNitra Build Day — projekty
 
-**7. november 2026** · Prehľad pre partnerov a blogové spracovanie
+**7. november 2026**
 
-Na podujatí vznikli prototypy a projekty z oblasti AI, vzdelávania, podnikania, kreatívnych nástrojov, hier a verejných dát. Tento zoznam obsahuje **25 projektov** zo zdieľaného Discord kanála `#projekty`, vrátane dodatočne zverejnených príspevkov. Názvy tímov sú uvedené bez mien jednotlivých členov.
+Zoznam **25 projektov** predstavených na podujatí, vrátane dodatočne zverejnených projektov.
 
 ## 1. Parapet
 
 **Tím:** Parapet
 
-E-shop s parapetmi s vizualizáciou rozmerov a konfigurácie produktu pred objednávkou.
+E-shop s parapetmi, ktorý umožňuje zákazníkom zvoliť rozmery a konfiguráciu a vizualizovať objednávaný produkt pred nákupom.
 
-*Verejný odkaz nebol zverejnený.*
+[Web projektu](https://zn20itx538aqxsnusko6lfz9.macaly.app/)
 
 ## 2. Investor
 
@@ -42,7 +42,7 @@ Procedurálne generovaná strieľačka z pohľadu zhora vytvorená v jednom súb
 
 Aplikácia Berry Harvest; účel a funkcie neboli v Discorde bližšie opísané.
 
-[Prezentácia](https://d1mz04ixm0vrwrd2k5p30rd9.macaly.dev/pitch)
+*Verejný odkaz nebol overený.*
 
 ## 6. BuildStock
 
@@ -66,7 +66,7 @@ Firemná znalostná báza na rýchlejšie vyhľadávanie informácií a rozhodov
 
 Projekt vytvorený v Macaly; názov a funkcie neboli v kanáli uvedené.
 
-[Macaly projekt](https://www.macaly.com/chat/q6x1rlm22xg4kv4sspnw9gf2)
+*Verejný odkaz nebol overený.*
 
 ## 9. Studee
 
@@ -74,7 +74,7 @@ Projekt vytvorený v Macaly; názov a funkcie neboli v kanáli uvedené.
 
 AI študijný pomocník premieňa poznámky na zhrnutia, testy a kartičky. Pravidelné učenie podporuje systémom skúsenostných bodov.
 
-[Aplikácia](https://b00ikpq33hi9fgkohthgosf9.macaly.app/) · [Pitch](https://b00ikpq33hi9fgkohthgosf9.macaly.app/pitch)
+[Aplikácia](https://b00ikpq33hi9fgkohthgosf9.macaly.app/) · [Prezentácia](https://b00ikpq33hi9fgkohthgosf9.macaly.app/pitch)
 
 ## 10. Foto na stene
 
@@ -90,7 +90,7 @@ Prezentácia fotografickej tvorby s vizualizáciou toho, ako bude vybraná fotog
 
 Pracovný priestor na organizáciu kampaní, dokumentov, odkazov a pripomienok, prepojený s prezentáciami.
 
-[Demo](https://bohlhs06wgpdu6iuirw3ovqh.macaly.dev/)
+*Verejný odkaz nebol overený.*
 
 ## 12. Módny kvíz SUCHANOVA
 
@@ -106,7 +106,7 @@ Interaktívny kvíz pomáha objaviť osobný štýl a zostaviť kapsulový šatn
 
 Webová hra založená na stavaní blokov; autori zverejnili hru aj prezentáciu.
 
-[Hra](https://claude.ai/artifact/94UV78esDgEWhyLf5ecMX6) · [Pitch](https://claude.ai/artifact/Pqkuu6NYt6K2Qrgncd87cK)
+*Verejný odkaz nebol overený.*
 
 ## 14. SelfStudy
 
@@ -122,7 +122,7 @@ AI vytvára personalizované študijné plány podľa predmetu, úrovne znalost�
 
 Rozhranie na tvorbu a organizovanie rozvrhov.
 
-[Pitch](https://claude.ai/artifact/XZCDrQBTEsTN78qbb1JTwU)
+*Verejný odkaz nebol overený.*
 
 ## 16. Portál pre účtovníkov
 
@@ -130,7 +130,7 @@ Rozhranie na tvorbu a organizovanie rozvrhov.
 
 Automatický výpočet finančných ukazovateľov zo vstupných údajov a vzdelávací modul na plánovanie štúdia legislatívnych zmien.
 
-[Demo](https://m36ok1sv2tvi52c8x0s6w8lr.macaly.dev/)
+*Verejný odkaz nebol overený.*
 
 ## 17. BrickByBrick
 
@@ -138,7 +138,7 @@ Automatický výpočet finančných ukazovateľov zo vstupných údajov a vzdel�
 
 AI aplikácia na tvorbu krátkych propagačných videí zo záberov stavebných projektov.
 
-[Aplikácia](https://brickbybrick-pi.vercel.app/) · [Pitch](https://claude.ai/artifact/2e9pybqHMcKo9XLiEgMuJp)
+[Aplikácia](https://brickbybrick-pi.vercel.app/)
 
 ## 18. Projekt Romana Sládka
 
@@ -146,7 +146,7 @@ AI aplikácia na tvorbu krátkych propagačných videí zo záberov stavebných 
 
 Webový projekt vytvorený v Macaly; funkčný opis nebol zverejnený.
 
-[Web](https://by68hs786b9dqdemw7fmjl40.macaly.dev/#kontakt)
+*Verejný odkaz nebol overený.*
 
 ## 19. FolkStore
 
@@ -154,7 +154,7 @@ Webový projekt vytvorený v Macaly; funkčný opis nebol zverejnený.
 
 Web na objednávanie tréningových tanečných sukní.
 
-[Pitch](https://meqd889qddlr05klstqjkqdb.macaly.dev/pitch)
+*Verejný odkaz nebol overený.*
 
 ## 20. AUTOPILOT
 
@@ -194,7 +194,7 @@ Webová tower-defense hra s obrannými vežami, vlnami nepriateľov a stromom sc
 
 Webový projekt; bližší opis funkcií nebol zverejnený.
 
-[Web](https://s71i6tisgr6iv5psk97cswwf.macaly.dev/)
+*Verejný odkaz nebol overený.*
 
 ## 25. KCN
 
@@ -203,7 +203,3 @@ Webový projekt; bližší opis funkcií nebol zverejnený.
 Projekt tímu KCN; opis nebol zverejnený. Zdieľaný odkaz na autorizovaný náhľad nie je vhodný na verejné publikovanie.
 
 *Verejný odkaz nebol zverejnený.*
-
----
-
-**Redakčná poznámka:** Nie všetky odkazy sú verejné alebo funkčné; niektoré smerujú iba na prezentáciu či pracovný priestor. Funkčnosť všetkých aplikácií nebola potvrdená. Pri projektoch bez opisu je potrebné doplniť informácie od tímov. Zoznam zachytáva prototypy prezentované počas podujatia, nie nevyhnutne hotové produkty.
