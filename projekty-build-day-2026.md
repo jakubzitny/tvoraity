@@ -2,7 +2,7 @@
 
 **7. november 2026**
 
-Zoznam **25 projektov** predstavených na podujatí, vrátane dodatočne zverejnených projektov.
+**25 projektov vytvorených počas HackNitra Build Day.**
 
 ## 1. Parapet
 
